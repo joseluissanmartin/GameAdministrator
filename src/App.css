@@ -1,0 +1,161 @@
+*{
+  font-family: fantasy ;
+}
+
+body{
+    background-color: #5535C9;
+}
+article{
+  background-color: #6D35C9;
+  width: 800px;
+  text-align: left;
+  margin-right: auto;
+  margin-left: 300px;
+  border-radius:10px;
+  padding: 10px;
+  height: 400px;
+  position: relative;
+  top: -815px;
+  left:50px;
+  box-shadow:10px 10px 5px -3px rgba(0,0,0,0.75);
+}
+section{
+    position: relative;
+    top:-400px;
+    margin-top:20px;
+    margin-left:5px;
+    width: 180px;
+    height: 400px;
+    padding: 10px;
+    background-color: #6D35C9;
+    border-radius:10px;
+    box-shadow:10px 10px 5px -3px rgba(0,0,0,0.75);
+}
+.tarjeta{
+    background-color:black;
+    width: 1300px;
+    height: 100px;
+    text-align: center;
+    border-radius:10px;
+    padding: 60px;
+    box-shadow:10px 10px 5px -3px rgba(0,0,0,0.75);
+}
+input, select, text {
+    display:block;
+    width: 20%;
+    font-size: 100%;
+    color: blue;
+    position: relative;
+    left: 1080px;
+}
+.registro{
+  color: white;
+  text-align:right ;
+  position: relative;
+  top: -310px;
+}
+.email{
+  position: relative;
+  top:-10px;
+}
+.password{
+  position: relative;
+}
+p{
+}
+.u{
+  position: relative;
+  top: -10px;
+
+}
+.a{
+  position: relative;
+  top: -91px;
+  left:120px;
+}
+h1{
+  color: white;
+  font-size: 300%;
+  position: relative;
+  left:400px;
+  top:-150px;
+
+}
+h4{
+  position: relative;
+  top: -36px;
+  left: -195px;
+}
+h5{
+  position: relative;
+  top: -35px;
+  left:-170px;
+}
+.Iniciar{
+  position: relative;
+  top:-140px;
+  left:0px;
+  font-size: 100%;
+}
+.Registrarse{
+  position: relative;
+  top:-100px;
+  left:-100px;
+  font-size: 100%;
+}
+.Buscar{
+  position: relative;
+  top:-380px;
+  left: 380px;
+  font-size: 100%;
+}
+.Ayuda{
+  position: relative;
+  top:-370px;
+  left:880px;
+  font-size: 100%;
+}
+.imagen0{
+position: relative;
+top:-1475px;
+left:10px;
+width: 200px;
+height: 200px;
+}
+.imagen1{
+  float: left;
+  width: 200px;
+  height: 300px;
+  margin-left: 10px;
+}
+.imagen2{
+  float: center;
+  margin-left: 100px;
+  width: 200px;
+  height: 300px;
+}
+.imagen3{
+  float: right;
+  width: 200px;
+  height: 300px;
+  margin-right:10px;
+}
+.imagenTitulo{
+  position: relative;
+  width: 600px;
+  height: 200px;
+  top:-1500px;
+  left:100px;
+}
+a{
+  color:white;
+  text-decoration:none;
+}
+a:visited{
+color:red;
+}
+.inputConError {
+    /*border-color:red;
+    font:200%*/
+    box-shadow: 0px 0px 6px 2px rgb(255, 0, 0);
+}
