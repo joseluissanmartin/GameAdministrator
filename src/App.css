@@ -61,12 +61,10 @@ input, select, text {
 .password{
   position: relative;
 }
-p{
-}
+
 .u{
   position: relative;
   top: -10px;
-
 }
 .a{
   position: relative;
@@ -84,36 +82,40 @@ h1{
 h4{
   position: relative;
   top: -36px;
-  left: -195px;
+  left: -275px;
 }
 h5{
   position: relative;
   top: -35px;
-  left:-170px;
+  left:-250px;
 }
 .Iniciar{
   position: relative;
   top:-140px;
-  left:0px;
+  left:-100px;
   font-size: 100%;
+  border-color: blue;
 }
 .Registrarse{
   position: relative;
   top:-100px;
-  left:-100px;
+  left:-200px;
   font-size: 100%;
+  border-color: blue;
 }
 .Buscar{
   position: relative;
   top:-380px;
-  left: 380px;
+  left: 430px;
   font-size: 100%;
+  border-color: blue;
 }
 .Ayuda{
   position: relative;
   top:-370px;
-  left:880px;
+  left:920px;
   font-size: 100%;
+  border-color: blue;
 }
 .imagen0{
 position: relative;
