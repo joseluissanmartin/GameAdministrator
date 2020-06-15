@@ -15,13 +15,12 @@ article{
   padding: 10px;
   height: 400px;
   position: relative;
-  top: -815px;
+  top: -850px;
   left:50px;
   box-shadow:10px 10px 5px -3px rgba(0,0,0,0.75);
 }
+
 section{
-    position: relative;
-    top:-400px;
     margin-top:20px;
     margin-left:5px;
     width: 180px;
@@ -29,10 +28,15 @@ section{
     padding: 10px;
     background-color: #6D35C9;
     border-radius:10px;
+    position: relative;
+    top: -430px;
+    left:50px;
     box-shadow:10px 10px 5px -3px rgba(0,0,0,0.75);
 }
 .tarjeta{
     background-color:black;
+    position:relative;
+    top:0px;
     width: 1300px;
     height: 100px;
     text-align: center;
@@ -48,79 +52,161 @@ input, select, text {
     position: relative;
     left: 1080px;
 }
+.marco{
+  background-color: #B4AAC5;
+  width: 600px;
+  padding: 10px;
+  height: 300px;
+  position: relative;
+  top: 40px;
+  left: 82px;
+  box-shadow:2px 2px 1px -1px rgba(0,0,0,0.75);
+}
+.nombreUsuario{
+  position: relative;
+  top:-20px;
+  color: black;
+  font-size: 105%;
+}
 .registro{
   color: white;
   text-align:right ;
   position: relative;
-  top: -310px;
+  top: -180px;
 }
 .email{
   position: relative;
-  top:-10px;
+  top:-200px;
 }
 .password{
   position: relative;
+  top:-195px;
+}
+.nombreRegistro{
+  position: relative;
+  left: -905px;
+  top:-90px;
+  width:1500px;
+}
+.passUsuario{
+  position: relative;
+  top:-110px;
+  color: black;
+  font-size: 105%;
+}
+.passReg{
+  position: relative;
+  left: 175px;
+  top: -182px;
+  width:300px;
+}
+.passUsuario2{
+  position: relative;
+  top:-200px;
+  color: black;
+  font-size: 105%;
+}
+.passReg2{
+  position: relative;
+  left: 175px;
+  top: -272px;
+  width:300px;
+}
+.emailUsuario{
+  position: relative;
+  left: 0px;
+  top: -285px;
+  width:300px;
+  color: black;
+  font-size: 105%;
+}
+.emailReg{
+  position: relative;
+  left: 175px;
+  top: -360px;
+  width:300px;
+
+}
+.edadlUsuario{
+  position: relative;
+  left: 0px;
+  top: -370px;
+  width:300px;
+  color: black;
+  font-size: 105%;
+}
+.edadUs{
+  position: relative;
+  left: 175px;
+  top: -445px;
+  width:150px;
+}
+.cPerfil{
+  position: relative;
+  left: 175px;
+  top: -425px;
+}
+.cancelar{
+  position: relative;
+  left: 220px;
+  top: -425px;
 }
 
 .u{
   position: relative;
-  top: -10px;
+  top: -200px;
+
 }
 .a{
   position: relative;
-  top: -91px;
+  top: -280px;
   left:120px;
 }
 h1{
   color: white;
   font-size: 300%;
   position: relative;
-  left:400px;
-  top:-150px;
+  left:-150px;
 
 }
 h4{
   position: relative;
   top: -36px;
-  left: -275px;
+  left: -240px;
 }
 h5{
   position: relative;
   top: -35px;
-  left:-250px;
+  left:-215px;
 }
 .Iniciar{
   position: relative;
-  top:-140px;
-  left:-100px;
+  top:-320px;
+  left:-55px;
   font-size: 100%;
-  border-color: blue;
 }
 .Registrarse{
   position: relative;
-  top:-100px;
-  left:-200px;
+  top:-280px;
+  left:-155px;
   font-size: 100%;
-  border-color: blue;
 }
 .Buscar{
   position: relative;
   top:-380px;
-  left: 430px;
+  left:450px;
   font-size: 100%;
-  border-color: blue;
 }
 .Ayuda{
   position: relative;
   top:-370px;
-  left:920px;
+  left:945px;
   font-size: 100%;
-  border-color: blue;
 }
 .imagen0{
 position: relative;
-top:-1475px;
-left:10px;
+top: -210px;
+left: 10px;
 width: 200px;
 height: 200px;
 }
@@ -146,8 +232,8 @@ height: 200px;
   position: relative;
   width: 600px;
   height: 200px;
-  top:-1500px;
-  left:100px;
+  top:-220px;
+  left: 120px;
 }
 a{
   color:white;
