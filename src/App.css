@@ -7,17 +7,25 @@ body{
 }
 article{
   background-color: #6D35C9;
-  width: 800px;
   text-align: left;
   margin-right: auto;
   margin-left: 300px;
   border-radius:10px;
   padding: 10px;
+  width: 800px;
   height: 400px;
   position: relative;
   top: -850px;
   left:50px;
   box-shadow:10px 10px 5px -3px rgba(0,0,0,0.75);
+}
+.articleChico{
+  background-color: #5535C9;
+  position: relative;
+  top: 20px;
+  left:-300px;
+  width: 580px;
+  height: 200px;
 }
 
 section{
@@ -51,6 +59,20 @@ input, select, text {
     color: blue;
     position: relative;
     left: 1080px;
+}
+.formulario{
+  background-color: #6D35C9;
+  width: 800px;
+  text-align: left;
+  margin-right: auto;
+  margin-left: 300px;
+  border-radius:10px;
+  padding: 10px;
+  height: 400px;
+  position: relative;
+  top: -850px;
+  left: 50px;
+  box-shadow:10px 10px 5px -3px rgba(0,0,0,0.75);
 }
 .marco{
   background-color: #B4AAC5;
@@ -162,6 +184,25 @@ input, select, text {
   top: -280px;
   left:120px;
 }
+.seleccionarJuego{
+  position: relative;
+  top: -5px;
+  left: 70px;
+  width: 200px;
+}
+.nombreGame{
+    color: white;
+    top: 0px;
+    left:0px;
+    font-size:200% ;
+  }
+  .price{
+    color: pink;
+    top: 0px;
+    left:100px;
+    font-size: ;
+  }
+
 h1{
   color: white;
   font-size: 300%;
@@ -178,6 +219,40 @@ h5{
   position: relative;
   top: -35px;
   left:-215px;
+}
+h7{
+  position: relative;
+  top: 25px;
+  left:0px;
+}
+h8{
+  position: relative;
+  top: 0px;
+  left:0px;
+}
+h9{
+  position: relative;
+  top: 50px;
+  left: -54px;
+}
+h10{
+  position: relative;
+  top: 100px;
+  left: -102px;
+}
+.label1{
+  position: relative;
+  top: 100px;
+  left:200px;
+  color:white;
+  font-size:200%;
+}
+h11{
+  position: relative;
+  top: -700px;
+  left: 600px;
+  font-size:200% ;
+  color:white;
 }
 .Iniciar{
   position: relative;
@@ -234,6 +309,13 @@ height: 200px;
   height: 200px;
   top:-220px;
   left: 120px;
+}
+.carrito{
+  position: relative;
+  width: 50px;
+  height: 50px;
+  top:100px;
+  left: 500px;
 }
 a{
   color:white;
