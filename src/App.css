@@ -19,6 +19,7 @@ article{
   left:50px;
   box-shadow:10px 10px 5px -3px rgba(0,0,0,0.75);
 }
+<<<<<<< HEAD
 .articleChico{
   background-color: #5535C9;
   position: relative;
@@ -27,6 +28,8 @@ article{
   width: 580px;
   height: 200px;
 }
+=======
+>>>>>>> c9e2678dbc36b1c04d8708c8dafab8d65c7a38ed
 
 section{
     margin-top:20px;
@@ -60,6 +63,7 @@ input, select, text {
     position: relative;
     left: 1080px;
 }
+<<<<<<< HEAD
 .formulario{
   background-color: #6D35C9;
   width: 800px;
@@ -74,6 +78,8 @@ input, select, text {
   left: 50px;
   box-shadow:10px 10px 5px -3px rgba(0,0,0,0.75);
 }
+=======
+>>>>>>> c9e2678dbc36b1c04d8708c8dafab8d65c7a38ed
 .marco{
   background-color: #B4AAC5;
   width: 600px;
@@ -219,6 +225,7 @@ h5{
   position: relative;
   top: -35px;
   left:-215px;
+<<<<<<< HEAD
 }
 h7{
   position: relative;
@@ -253,6 +260,8 @@ h11{
   left: 600px;
   font-size:200% ;
   color:white;
+=======
+>>>>>>> c9e2678dbc36b1c04d8708c8dafab8d65c7a38ed
 }
 .Iniciar{
   position: relative;
@@ -309,6 +318,7 @@ height: 200px;
   height: 200px;
   top:-220px;
   left: 120px;
+<<<<<<< HEAD
 }
 .carrito{
   position: relative;
@@ -316,6 +326,8 @@ height: 200px;
   height: 50px;
   top:100px;
   left: 500px;
+=======
+>>>>>>> c9e2678dbc36b1c04d8708c8dafab8d65c7a38ed
 }
 a{
   color:white;
